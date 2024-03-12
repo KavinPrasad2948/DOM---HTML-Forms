@@ -67,15 +67,19 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
 }
 
 th, td {
     border: 1px solid #dddddd;
     text-align: left;
     padding: 8px;
+    border-radius: 4px;
 }
 
 th {
     background-color: #f2f2f2;
+    
 }
 
